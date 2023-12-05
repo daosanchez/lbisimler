@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\ravza\form38\form38\bin\Debug\form38.exe.config
+C:\Users\User\Desktop\KORUMASIZ\ravza\form38\form38\bin\Debug\form38.exe
+C:\Users\User\Desktop\KORUMASIZ\ravza\form38\form38\bin\Debug\form38.pdb
+C:\Users\User\Desktop\KORUMASIZ\ravza\form38\form38\obj\Debug\form38.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\ravza\form38\form38\obj\Debug\form38.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\ravza\form38\form38\obj\Debug\form38.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\ravza\form38\form38\obj\Debug\form38.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\ravza\form38\form38\obj\Debug\form38.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\ravza\form38\form38\obj\Debug\form38.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\ravza\form38\form38\obj\Debug\form38.exe
+C:\Users\User\Desktop\KORUMASIZ\ravza\form38\form38\obj\Debug\form38.pdb
